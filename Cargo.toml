@@ -1,0 +1,7 @@
+[package]
+name = "ansi-vte-test"
+version = "0.1.0"
+authors = ["Leonids Maslovs <leonids.maslovs@galeoconsulting.com>"]
+
+[dependencies]
+ansi_term = "*"
